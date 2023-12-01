@@ -1,0 +1,54 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.all {
+    position: absolute;
+
+    right: 3%;
+    bottom: 2%;
+
+    width: 320px;
+    height: 250px;
+
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.rec {
+    position: absolute;
+
+    right: 3%;
+    bottom: 2%;
+
+    width: 200px;
+    height: 20px;
+
+    border-radius: 100px;
+    background-color: blueviolet;
+    box-shadow: 2px 2px 2px black;
+}
+
+.km {
+    position: absolute;
+
+    right: 30px;
+    bottom: 5px;
+
+    width: 70px;
+    font-size: 40;
+    font-family: 'Bebas Neue', sans-serif;
+    color: white;
+    text-shadow: 4px 2px 2px black;
+}
+
+.speed {
+    position: absolute;
+    right: 110px;
+    bottom: -9px;
+
+    font-size: 75;
+    font-family: 'Bebas Neue', sans-serif;
+    color: white;
+    text-shadow: 4px 3px 2px black;
+}
