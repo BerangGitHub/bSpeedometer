@@ -11,8 +11,6 @@ body {
 
     width: 320px;
     height: 250px;
-
-    background-color: rgba(0, 0, 0, 0);
 }
 
 .rec {
@@ -25,7 +23,8 @@ body {
     height: 20px;
 
     border-radius: 100px;
-    background-color: blueviolet;
+    /*Le couleur de la bar en dessous de la vitesse*/
+    background-color: #6c00ff;
     box-shadow: 2px 2px 2px black;
 }
 
